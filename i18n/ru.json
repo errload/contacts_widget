@@ -1,0 +1,11 @@
+{
+    "widget": {
+        "name": "widget name",
+        "short_description": "short description",
+        "description": "description",
+        "tour_description": "tour description"
+    },
+    "settings": {
+        "config_settings": "Настройки"
+    }
+}
